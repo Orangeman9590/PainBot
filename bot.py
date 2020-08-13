@@ -33,5 +33,5 @@ for filename in os.listdir('./cogs'):
 
 
 
-client.run('NzMxOTMxNDk1Nzg2MDg2NDIy.XwtOhQ.206W-7HOMQZ_m_uM_QCUCB7RN1I')
+client.run('')
 
